@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rino Browser</string>
+    <string name="search">Search or type web address</string>
+    <string name="secure_desc">Your connection is secure</string>
+
+    <!--icon credits-->
+    <string name="incognito">Incognito by Ben Davis from the Noun Project</string>
+</resources>
